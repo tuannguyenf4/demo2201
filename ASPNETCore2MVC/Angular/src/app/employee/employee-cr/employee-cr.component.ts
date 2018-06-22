@@ -113,7 +113,7 @@ export class EmployeeCrComponent implements OnInit {
   }
 
   employee_validation_messages = {
-    'name': [h
+    'name': [
       { type: 'required', message: 'Name is required' },
       { type: 'minlength', message: 'Name must be at least 5 characters long' },
       { type: 'maxlength', message: 'Name cannot be more than 25 characters long' },
