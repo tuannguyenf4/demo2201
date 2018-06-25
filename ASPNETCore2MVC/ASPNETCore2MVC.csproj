@@ -23,7 +23,6 @@
   <ItemGroup>
     <Folder Include="Angular\src\app\_guards\" />
     <Folder Include="Angular\src\app\shared\utils\" />
-    <Folder Include="Migrations\" />
   </ItemGroup>
 
 </Project>
